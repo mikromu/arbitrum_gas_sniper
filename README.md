@@ -2,6 +2,7 @@
 
 Sniffs out transactions paying absurd gas (>5 gwei) on Arbitrum — almost always MEV bots, liquidations, or panic moves.
 
+
 When you see this fire, something big is happening right now.
 
 ### Why run it?
